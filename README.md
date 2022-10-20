@@ -19,7 +19,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nirvana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnarchistHoneybun&theme=react-dark&area=true&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nirvana's Activity Graph" src="https://graph-act.herokuapp.com/graph?username=AnarchistHoneybun&theme=react-dark&area=true&hide_border=true" /></a>
 
 <!--
 **AnarchistHoneybun/AnarchistHoneybun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
