@@ -19,6 +19,8 @@
 
 ---
 
+![Nirv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical)
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nirvana's Activity Graph" src="https://graph-act.herokuapp.com/graph?username=AnarchistHoneybun&theme=react-dark&area=true&hide_border=true" /></a>
