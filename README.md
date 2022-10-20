@@ -1,6 +1,7 @@
 # ♾️ Nirvana
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**
+**`They/Them`**
 
 ![Nirv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical&hide_title=true)
 ---
