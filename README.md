@@ -2,6 +2,9 @@
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**
 
+---
+### 🧰 Languages
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <!--
 **AnarchistHoneybun/AnarchistHoneybun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
