@@ -1,4 +1,6 @@
-# Hi there 👋
+# ♾️ Nirvana
+
+**`Computer Science stud(ent), Dev-in-making, Digital Artist`**
 
 <!--
 **AnarchistHoneybun/AnarchistHoneybun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
