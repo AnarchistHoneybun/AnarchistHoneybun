@@ -9,8 +9,7 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-</h1>
-
+</h1>  
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
 **`They/Them`**
 
