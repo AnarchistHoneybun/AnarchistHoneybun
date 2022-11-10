@@ -1,4 +1,4 @@
-<h1 align="center">♾️Nirvana♾️
+<h1 align="center">♾️Nirvana♾️    
 
   
 <!-- Social icons section -->
