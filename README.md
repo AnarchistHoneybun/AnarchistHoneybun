@@ -1,4 +1,4 @@
-<h1 align="center">♾️Nirvana♾️</h1>
+<h1 align="center">♾️Nirvana♾️
 
 <!-- Social icons section -->
 <p align="center">
@@ -14,6 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+</h1>
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
 **`They/Them`**
