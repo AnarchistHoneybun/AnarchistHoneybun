@@ -1,5 +1,5 @@
 <h1 align="center">♾️Nirvana♾️    
-
+<br>
   
 <!-- Social icons section -->
 <p align="center">
