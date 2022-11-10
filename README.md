@@ -5,7 +5,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/raj-rajeshwar-singh-bisen-0892b7250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="typhoeusxoxo@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
