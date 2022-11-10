@@ -1,6 +1,4 @@
-<p align="center">  
-# ♾️ Nirvana
-</p>
+<h1 align="center">Nirvana</h1>
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
 **`They/Them`**
