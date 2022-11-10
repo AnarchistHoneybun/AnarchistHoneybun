@@ -1,4 +1,5 @@
 <h1 align="center">Nirvana </h1>   
+<h2 align="center">Nirvana </h2>  
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
 **`They/Them`**
