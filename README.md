@@ -1,7 +1,7 @@
 <h1 align="center">Nirvana </h1>   
 <h2 align="center"><!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true"/></a>
+  <a href="https://www.instagram.com/n.irvs/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
