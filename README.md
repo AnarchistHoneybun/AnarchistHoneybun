@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.instagram.com/n.irvs/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://www.linkedin.com/in/raj-rajeshwar-singh-bisen-0892b7250/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
