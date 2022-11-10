@@ -8,10 +8,6 @@
   <a href="mailto: typhoeusxoxo@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/user/31u5mmgbprwepuudb4gqzg5g3xii"><img width="32px" alt="Spotify" title="Spotify" src="https://i.imgur.com/wSsVkMN.png"></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> </h2>  
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
