@@ -11,7 +11,7 @@
 </p> </h2>  
 
 **`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
-**`They/Them`**
+**`They/Them`**   
 **`Currently working on Python: 100 Days of Code`**
 
 ![Nirv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical&hide_title=true)
