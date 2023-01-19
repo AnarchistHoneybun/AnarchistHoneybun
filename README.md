@@ -14,7 +14,7 @@
 **`They/Them`**   
 **`Currently working on Python: 100 Days of Code`**
 
-![Nirv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical&hide_title=true)
+![Nirv's GitHub stats](https://github-readme-stats-lime-beta-67.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical&hide_title=true)
 ---
 ### 🌑 Languages
 <img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
