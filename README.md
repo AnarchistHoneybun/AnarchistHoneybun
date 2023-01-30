@@ -22,7 +22,7 @@
 <img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="latex" width="30px" alt="latex" title="LaTeX" style="padding-right:10px;" src="https://i.imgur.com/95LDtMQ.png" />
 <img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/IrjW54J.png" />
-<img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/eLAguVQ.png" />
+<img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/agU897v.png" />
 <br />
 
 ### 🌒 Software and Tools
