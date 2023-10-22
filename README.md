@@ -10,9 +10,8 @@
   <a href="https://open.spotify.com/user/31u5mmgbprwepuudb4gqzg5g3xii"><img width="32px" alt="Spotify" title="Spotify" src="https://i.imgur.com/wSsVkMN.png"></a>
 </p> </h2>  
 
-**`Computer Science stud(ent), Dev-in-making, Digital Artist`**  
 **`They/Them`**   
-**`Currently working on studying the RustLang Book`**
+**`Currently working on terminal applications`**
 
 ![Nirv's GitHub stats](https://github-readme-stats-lime-beta-67.vercel.app/api?username=AnarchistHoneybun&show_icons=true&theme=radical&hide_title=true)
 ---
