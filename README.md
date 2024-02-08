@@ -13,10 +13,6 @@
 **`They/Them`**   
 **`Currently working on terminal applications`**
 
-> [!INFO] Title
-> The following questions relate to scheduling algorithms. Due to the lack of input data, I've generated data myself using Python. This has resulted in the data being too uniform, so differences between algorithms are not as pronounced as one would think. The algorithms themselves, however, work correctly.
-> (A copy of the input data used has been provided below, and also with the source code)
-
 ---
 ### 🌑 Languages
 <img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
