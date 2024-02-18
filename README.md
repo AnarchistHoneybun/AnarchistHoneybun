@@ -17,7 +17,7 @@
 ### 🌑 Languages
 <img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C++" width="30px" alt="C++" title="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="Java" width="30px" alt="C++" title="C++" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' />
+<img align="left" alt="Java" width="30px" alt="Java" title="Java" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' />
 <img align="left" alt="javascript" width="30px" alt="javascript" title="javascript" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' />
 <img align="left" alt="Powershell" title="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
