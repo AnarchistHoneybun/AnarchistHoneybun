@@ -18,6 +18,8 @@
 <img align="left" alt="C" width="30px" alt="C" title="C" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="C++" width="30px" alt="C++" title="C++" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="Java" width="30px" alt="C++" title="C++" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' />
+<img align="left" alt="Powershell" title="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Solidity" width="30px" alt="C++" title="C++" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' />
 <img align="left" alt="latex" width="30px" alt="latex" title="LaTeX" style="padding-right:10px;" src="https://i.imgur.com/95LDtMQ.png" />
 <img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -30,7 +32,6 @@
 <img align="left" alt="pycharm" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="github" title="GitHub" width="30px" style="padding-right:10px;" src="https://i.imgur.com/rHUROEu.png" />
 <img align="left" alt="Polygon" title="Polygon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" />
-<img align="left" alt="Powershell" title="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <img align="left" alt="arch" title="arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="blender" title="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="photoshop" title="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
