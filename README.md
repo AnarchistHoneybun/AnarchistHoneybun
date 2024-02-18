@@ -21,7 +21,7 @@
 <img align="left" alt="javascript" width="30px" alt="javascript" title="javascript" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' />
 <img align="left" alt="Powershell" title="Powershell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Solidity" width="30px" alt="C++" title="C++" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' />
+<img align="left" alt="Solidity" width="30px" alt="Solidity" title="Solidity" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' />
 <img align="left" alt="latex" width="30px" alt="latex" title="LaTeX" style="padding-right:10px;" src="https://i.imgur.com/95LDtMQ.png" />
 <img align="left" alt="Python" width="30px" alt="Python" title="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Haskell" width="30px" alt="Haskell" title="Haskell" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
