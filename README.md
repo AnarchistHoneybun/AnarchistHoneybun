@@ -24,9 +24,12 @@
 <img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/IrjW54J.png" />
 <img align="left" alt="Zig" width="30px" alt="Zig" title="Zig" style="padding-right:10px;" src="https://imgur.com/agU897v.png" />
 <br />
+<img align="left" alt="html" width="30px" alt="html" title="html" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<br />
 
 ### 🌒 Software and Tools
 <img align="left" alt="vscode" title="VScode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="pycharm" title="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="clion" title="clion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" />
 <img align="left" alt="github" title="GitHub" width="30px" style="padding-right:10px;" src="https://i.imgur.com/rHUROEu.png" />
