@@ -23,7 +23,6 @@
 <img align="left" alt="Haskell" width="30px" alt="Haskell" title="Haskell" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Rust" width="30px" alt="Rust" title="Rust" style="padding-right:10px;" src="https://imgur.com/IrjW54J.png" />
 <img align="left" alt="Zig" width="30px" alt="Zig" title="Zig" style="padding-right:10px;" src="https://imgur.com/agU897v.png" />
-<br />
 <img align="left" alt="html" width="30px" alt="html" title="html" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <br />
 
