@@ -7,7 +7,7 @@
 </p> </h2>  
 
 **`They/Them`**   
-**`Currently working on terminal applications`**
+**`Currently working on malware development`**
 
 ---
 ### 🌑 Languages
