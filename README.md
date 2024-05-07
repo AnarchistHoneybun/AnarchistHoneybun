@@ -46,6 +46,7 @@
 <img align="left" alt="tensorflow" title="tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="matplotlib" title="matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="ratatui" title="ratatui" width="30px" style="padding-right:10px;" src="https://github.com/ratatui-org/ratatui/blob/main/assets/logo.png" />
+<img align="left" alt="react" title="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 
 
