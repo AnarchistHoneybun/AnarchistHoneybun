@@ -6,7 +6,7 @@
   <a href="mailto: typhoeusxoxo@gmail.com" alt="Mail" title="Mail"><img width="32px" src="https://i.imgur.com/znLmbSN.png"/></a>
 </p> </h2>  
 
-**`Currently working on learning about distributed systems`**
+**`Currently working on learning about language design`**
 
 ---
 ### 🌑 Languages
