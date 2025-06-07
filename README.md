@@ -2,5 +2,6 @@
 
 ---
 currently working on:
-- language design
+- [altostratus](https://github.com/AnarchistHoneybun/altostratus)
+- [painterz](https://github.com/AnarchistHoneybun/painterz)
 - learning perl
