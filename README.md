@@ -2,5 +2,5 @@
 
 ---
 currently working on:
-- [altostratus](https://github.com/AnarchistHoneybun/altostratus)
-- [painterz](https://github.com/AnarchistHoneybun/painterz)
+- unSub
+- nw (now writing)
